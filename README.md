@@ -1,5 +1,5 @@
 # IT Fundamentals Applications MF-101 Workbook MATLAB Solution NED University of Engineering & Technology
-
+ 
 ## Overview
 
 This repository contains MATLAB solutions for the **IT Fundamentals Applications (MF-101) Workbook** used at **NED University of Engineering & Technology** in the **2026 Spring Semester**. It is intended as a study resource to help students understand MATLAB programming concepts, practice problem-solving techniques, and compare their work with completed solutions.
